@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **rajputrohit9560@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link](https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link"  >Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajputrohit9560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajputrohit9560" height="30" width="40" /></a>
