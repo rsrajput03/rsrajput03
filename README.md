@@ -5,7 +5,16 @@
 <img width="100%" height="400px" src="https://camo.githubusercontent.com/2dcd8f82077c0f52c5bfd124c591ed82c81b3b8bb6ab519e61ce8fef53a11392/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
 
 # 💫 About Me:
-🌱 I’m currently learning React,Redux<br>👨‍💻 All of my projects are available at rsrajput03.github.io <br>💬 Ask me about Javascript,React<br>📫 How to reach me rajputrohit9560@gmail.com<br>📄 Know about my experiences Resume
+ 🌱 I’m currently learning **React,Redux**
+
+- 👨‍💻 All of my projects are available at [rsrajput03.github.io](rsrajput03.github.io)
+
+- 💬 Ask me about **React,HTML,Javascript**
+
+- 📫 How to reach me **rajputrohit9560@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link](https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link)
+
 
 
 ## 🌐 Socials:
