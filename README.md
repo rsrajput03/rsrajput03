@@ -1,3 +1,6 @@
+<h1  style={text-align="center",margin="auto"} > Hey 👋, I'm Rohit Rajput</h1>
+
+
 
 <img width="100%" height="400px" src="https://camo.githubusercontent.com/2dcd8f82077c0f52c5bfd124c591ed82c81b3b8bb6ab519e61ce8fef53a11392/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
 
