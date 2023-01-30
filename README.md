@@ -1,15 +1,16 @@
-<h1  style={text-align="center",margin="auto"} > Hey 👋, I'm Rohit Rajput</h1>
+<h1 align="center">Hi 👋, I'm Rohit Rajput</h1>
 
-
+<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate frontend developer from India</h3>
 
 <img width="100%" height="400px" src="https://camo.githubusercontent.com/2dcd8f82077c0f52c5bfd124c591ed82c81b3b8bb6ab519e61ce8fef53a11392/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
 
 # 💫 About Me:
-🌱 I’m currently learning React,Redux<br>👨‍💻 All of my projects are available at rsrajput03.github.io<br>💬 Ask me about Javascript,React<br>📫 How to reach me rajputrohit9560@gmail.com<br>📄 Know about my experiences Resume
+🌱 I’m currently learning React,Redux<br>👨‍💻 All of my projects are available at rsrajput03.github.io <br>💬 Ask me about Javascript,React<br>📫 How to reach me rajputrohit9560@gmail.com<br>📄 Know about my experiences Resume
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajputrohit9560) 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
