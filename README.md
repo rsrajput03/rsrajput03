@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajputrohit9560@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link](https://drive.google.com/file/d/1jf5u4mDFteaROdiA6DsIVXLeEo9FsDv2/view?usp=share_link)
+
 
 
 
