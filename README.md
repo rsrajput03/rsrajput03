@@ -7,7 +7,7 @@
 # 💫 About Me:
  🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [rsrajput03.github.io](`a[href*='rsrajput03.github.io/'])
+- 👨‍💻 All of my projects are available at [rsrajput03.github.io](https://rsrajput03.github.io)
 
 - 💬 Ask me about **React,HTML,Javascript**
 
