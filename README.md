@@ -2,8 +2,8 @@
 
 <h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate frontend developer from India</h3>
 
-<img width="80%" height="400px" " src=""![github](https://user-images.githubusercontent.com/112858493/224748128-de2cbf65-7c6a-414d-9a89-6029edef4c64.gif)
-/>
+![github](https://user-images.githubusercontent.com/112858493/224748128-de2cbf65-7c6a-414d-9a89-6029edef4c64.gif)
+
 
 # 💫 About Me:
  🌱 I’m currently learning **React,Redux**
