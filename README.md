@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rajput</h1>
 
-<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate Full Stack Developer from India</h3>
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="center" style="width: 100%" />
 </div> 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rsrajput03.github.io/)
 
-- 💬 Ask me about **React,HTML,Javascript**
+- 💬 Ask me about **React,HTML,Javascript,Node.js,Express.js,MongoDB**
 
 - 📫 How to reach me **rajputrohit9560@gmail.com**
 
