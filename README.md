@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rajput</h1>
 
-<h3 align="center">Aspiring Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate Full Stack Developer from India</h3>
+<h3 align="center">Full Stack Developer. Always up for a challenge, interested in learning new languages and frameworks. passionate Full Stack Developer from India</h3>
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="center" style="width: 100%" />
 </div> 
